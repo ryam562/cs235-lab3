@@ -3,19 +3,19 @@ body {
 }
 
 header {
-    background-color: BlanchedAlmond;
+    background-color: #ebe0b0;
     text-align: center;
 	width:622px;
 }
 
 h1 {
     text-align: center;
-    color: red;
+    color: #241d26;
 }
 
 h3 {
     text-align: center;
-    color: brown;
+    color: #7e2e53;
 }
 
 table {
@@ -24,12 +24,12 @@ table {
 
 p {
 	text-align: center;
-	color: brown
+	color: #1b0f0d
 }
 
 footer {
 	width:622px;
-	background-color: BlanchedAlmond;
+	background-color: #ebe0b0;
 }
 
 .textlabel{
@@ -45,7 +45,7 @@ footer {
 }
 
 #fullpage { 
-    background: #8c7165;
+    background: #1b0f0d;
     color: white;
     border-radius: 1em;
     padding: 1em;
@@ -77,7 +77,7 @@ footer {
     width:622px;
 	height:302px;
 	position: relative;
-	background-color: #8c7165;
+	background-color: #e9a240;
 }
 
 #cnvActiveImage{
